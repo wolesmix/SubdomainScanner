@@ -1,0 +1,22 @@
+{
+    "name": "ccteam/pss",
+    "description": "Premium Server Scanner",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Ccteam\\Pss\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Creative Cyber Team"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {
+        "symfony/console": "^6.4",
+        "guzzlehttp/guzzle": "^7.8",
+        "symfony/dom-crawler": "^6.4",
+        "symfony/css-selector": "^6.4"
+    }
+}
