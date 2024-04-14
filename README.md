@@ -1,2 +1,0 @@
-# SubdomainScanner
-cct
